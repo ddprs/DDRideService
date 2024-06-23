@@ -3,7 +3,7 @@ body {
     font-family: 'Helvetica Neue', Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background: url('assets/DDLOGO.jpg') no-repeat center center fixed;
+    background: url('DDLOGO.jpg') no-repeat center center fixed;
     background-size: cover;
     color: #333;
 }
